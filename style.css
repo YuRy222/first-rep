@@ -1,0 +1,9 @@
+div {
+    background-color: red;
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+    border: 2px solid powderblue;
+    padding: 5px;
+    margin: 10px;
+  }
